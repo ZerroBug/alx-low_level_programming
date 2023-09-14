@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * main -  print alphabet
- * Return: 0
+ * print_alphabet - Print alphabet a-z and assign newline.
+ *Return void
  */
 
 void print_alphabet(void)
