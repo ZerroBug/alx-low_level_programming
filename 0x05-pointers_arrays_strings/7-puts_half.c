@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * put_half - The function should print the second half of the string`:
+ * puts_half - The function should print the second half of the string`:
  * if odd len, n = (length_of_the_string -1)/2
  * @str: input
  * Return: half of input
